@@ -1,0 +1,22 @@
+#mainNavbar {
+    margin: 10px;
+    padding: 10px;
+    font-size: 1.5rem;
+    font-weight: 100;    
+}
+
+#mainNavbar .nav-link {
+    color: white;
+    font-weight: 450;
+}
+
+#mainNavbar .nav-link:hover {
+    color: #185e99;
+}
+
+#mainNavbar .navbar-brand {
+    color: #185e99;
+    font-size: 1.5rem;
+    font-weight: 630;
+
+}

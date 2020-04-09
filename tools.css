@@ -1,0 +1,81 @@
+body{ border: 5px solid white;
+    width: 80%;
+    height: 100%;
+     font-family: 'Montserrat', sans-serif;
+     margin: 20px auto;
+     padding-left: 300px;
+     padding-right: 300px;
+     padding-top: 50px;
+     background: #5f9ed4;
+}
+
+.blurb h2 {
+   color:  #185e99
+   font-weight: 100;
+   font-size: 2.5rem;
+}
+
+.content {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+#mainNavbar {
+    font-size: 1.5rem;
+    font-weight: 100;    
+}
+
+#mainNavbar .nav-link {
+    color:  white;
+}
+
+#mainNavbar .nav-link:hover {
+    color: #EA1C2C;
+}
+
+#mainNavbar .navbar-brand {
+    color:  #185e99
+    font-size: 1.5rem;
+}
+
+#headingGroup h1 {
+    font-weight: 100;
+    font-size: 4rem;
+}
+
+.navbar.scrolled {
+    background: #185e99;
+    transition: background 500ms;
+}
+
+@media (max-width: 1200px) {
+    #headingGroup h1 {
+        font-weight: 100;
+        font-size: 3rem;
+    }
+    .blurb h2 {
+        font-size: 2rem;
+    }
+}
+
+.right{
+    height: 500px;
+    width: 500px;
+    margin-left: 250px;
+}
+
+.left{
+    height: 500px;
+    width: 500px;
+    margin-left: 50px;
+
+}
+
+.h3 ,h3{ font-family: 'Montserrat', sans-serif;
+color: white;
+
+}
+
+.h3 ,h3:hover {
+    color: #185e99;
+}

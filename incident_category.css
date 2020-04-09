@@ -1,0 +1,67 @@
+body {
+	background: #5f9ed4;
+	width: 500px;
+}
+
+#mainNavbar .navbar-brand{
+	color: #2e4ead;
+	font-weight: 600;
+	float: none;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, 10%);
+}
+
+.container {
+	text-align: center;
+	padding: 20px 120px 120px 120px; 
+	margin: 100px 80px 80px 580px;
+	height: 530px;
+	border: 3px solid white; 
+	width: 400px
+	
+}
+
+
+
+/*.top-left { 
+	top: 10; 
+	left: 10; 
+} 
+
+.top-center { 
+	top: 10; 
+	left: 45%; 
+	transform: translateX(-50%); 
+} 
+
+.top-right { 
+	top: 42%; 
+	left: 67%;
+	transform: translateX(-390%) translateY(-750%); 
+
+} 
+
+.mid-left { 
+	top: 60%; 
+	left: 24%; 
+	transform: translateY(-200%); 
+} 
+
+.mid-center { 
+	top: 2%; 
+	left: 190%; 
+	transform: translateX(-45%) translateY(-250%); 
+} 
+
+.mid-right { 
+	top: -220%; 
+	left: 380% 
+	transform: translateY(-250%) translateX(-210%); 
+} */
+
+img{
+	width: 20px;
+	height: 20px;
+}
